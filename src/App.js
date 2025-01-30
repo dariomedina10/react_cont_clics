@@ -21,7 +21,7 @@ function App() {
       src={FreeCodeCampLogo}
       alt='logo de freecodecamp'/>
        </div>
-       <div> className='contenedor-principal'
+       <div className='contenedor-principal'>
        <Boton
         texto='Clic'
         esBotonDeClic={true}
